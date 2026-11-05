@@ -68,4 +68,4 @@ Picking an entry puts it back on the system clipboard like any copy, so other ap
 
 ## Credits
 
-Look and feel follow [Maccy](https://github.com/p0deje/Maccy); the menu bar paperclip is Maccy's (MIT, [license](Resources/MACCY-LICENSE)). The app icon is drawn by [`Tools/make-icon.swift`](Tools/make-icon.swift).
+Look and feel follow [Maccy](https://github.com/p0deje/Maccy); the menu bar paperclip is Maccy's (MIT, [license](Resources/MACCY-LICENSE)).
