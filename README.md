@@ -17,9 +17,6 @@ The Maccy experience in ~1,700 lines of Swift, with zero dependencies, no networ
 
 </div>
 
-## Why
-
-Clipboard managers see every password, token and key you copy. Most persist that history to disk and update themselves from someone else's repository. Clipkeep is small enough to read in an afternoon and build yourself.
 
 | | Maccy 2.6.1 | Clipkeep |
 |---|---|---|
